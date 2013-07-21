@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://trivn.github.io/sitemap.xml 
