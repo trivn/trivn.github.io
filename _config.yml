@@ -3,12 +3,12 @@ description:      Describe your website here.
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://localhost:4000/
+url:              http://trivn.github.io
 
 # Owner/author information
 owner:
   name:           Your Name
-  avatar:         http://www.phimsomot.vn/uploads/2013/07/superman-vs.-the-elite_Thumb-225x300.jpg
+  avatar:         
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
