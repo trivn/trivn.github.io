@@ -5,8 +5,6 @@ description: "Custom written post descriptions are the way to go... if you're no
 category: articles
 tags: [sample post, readability]
 modified: 2013-06-30
-image:
-  feature: so-simple-sample-image-3.jpg
 comments: true  
 ---
 

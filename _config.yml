@@ -1,26 +1,26 @@
 title:            Minh Trí Nguyễn
-description:      Describe your website here.
+description:      "Hacker, Coder, Designer"
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://trivn.github.io
+url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Minh Tri Nguyen
-  avatar:         
-  email:          you@email.com
+  name:           Minh Trí Nguyễn
+  avatar:         http://s.gravatar.com/avatar/26df51390578e83bfa882cdb964bd0d0?s=360
+  email:          me@trivn.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        trivn_net
+  facebook:       trivn.net
+  github:         trivn
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://plus.google.com/u/0/105612829592862242228?rel=author
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -42,13 +42,13 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Ho_Chi_Minh
 future:      true
 pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:title/
 
 kramdown:
   auto_ids: true
