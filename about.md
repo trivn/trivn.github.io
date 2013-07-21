@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
+title: About Minh Tri Nguyen
 tags: 
   - Jekyll
   - theme
@@ -9,8 +9,6 @@ tags:
   - minimal
   - minimalism
   - responsive
-image: 
-  feature: "so-simple-sample-image-4.jpg"
 published: true
 ---
 
